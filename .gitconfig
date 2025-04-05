@@ -1,0 +1,7 @@
+[url "https://github.com/"]
+	insteadOf = https://gh-proxy.ygxz.in/
+[user]
+	name = yihujiua
+	email = yihujiua@icloud.com
+[init]
+	defaultBranch = master

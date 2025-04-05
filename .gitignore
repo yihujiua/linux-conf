@@ -1,0 +1,17 @@
+.z
+.cache
+.shell.pre-oh-my-zsh
+snap/
+.zcompdump*
+.zsh_history
+.bash_logout
+.sudo_as_admin_successful
+.tmux.conf.local
+.lesshst
+.ssh/
+.cpp/
+.vim/
+.vimrc
+.emacs.d/
+.tmux/
+.tmux.conf
